@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestCaseEntity>
+    <type>MANUAL</type>
+    <description></description>
+    <tag></tag>
+    <comment></comment>
+    <name>Verify UI of Hom</name>
+    <testCaseGuid>efce811f-7a8e-4c68-a359-14b091134a11</testCaseGuid>
+</TestCaseEntity>
+
