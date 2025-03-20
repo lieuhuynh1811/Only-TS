@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestCaseEntity>
+    <type>MANUAL</type>
+    <description></description>
+    <tag></tag>
+    <comment></comment>
+    <name>Verify UI of Home</name>
+    <testCaseGuid>a91a31b4-cadb-4e50-8c2a-4ec56b583c74</testCaseGuid>
+</TestCaseEntity>
+
